@@ -1,5 +1,5 @@
 {
-  "CartItem": {
+  "Post": {
     "title": { 
       "loremWords": { 
         "minLength": 4, 
